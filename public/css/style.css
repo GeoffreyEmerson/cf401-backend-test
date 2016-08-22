@@ -1,0 +1,16 @@
+body {
+  background: #cff;
+  width: 100%;
+}
+
+img {
+  width: 100%;
+}
+
+.pic {
+  margin: 5%;
+  padding: 5%;
+  width: 80%;
+  border: 1px solid black;
+  background: #ccc  
+}

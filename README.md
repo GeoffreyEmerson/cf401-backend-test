@@ -5,10 +5,11 @@ Date: August 22, 2016
 
 ## About
 
-A quick and simple backend that serves up images and descriptions.
+A quick and simple backend that serves up images and descriptions using Node.js, Express.js, and MongoDB.
 
 ## Prerequisites:
 * [node.js](https://nodejs.org/en/)
+* [Mongo DB](https://mongodb.com/)
 * Dev: [Mocha](https://mochajs.org/)
 * Dev: [Eslint](http://eslint.org/)
 

@@ -1,0 +1,7 @@
+    <h1>Animals In Hats</h1>
+    <div ng-controller="mainCtrl">
+      <div ng-repeat="image in images">
+        <img ng-src="{{image.url}}" alt="{{image.description}}" />
+        <p>{{image.description}}</p>
+      </div>
+    </div>
